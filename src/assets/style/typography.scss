@@ -1,0 +1,24 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  line-height: 1.48em;
+  color: #001f3f;
+
+  h1 {
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    font-weight: bold;
+    font-size: 1em;
+  }
+
+  .error {
+    font-weight: bold;
+    color: lightcoral;
+  }
+}
